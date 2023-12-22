@@ -11,4 +11,4 @@ Mehmet Emre Akbulut
 
 Eren Şenoğlu
 
-Gizem Güliter
+Gamze Güliter
