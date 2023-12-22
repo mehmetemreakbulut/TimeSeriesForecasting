@@ -6,6 +6,9 @@ We are the team *Overfit Overlords*.
 
 Our Team:
 Yavuz Samet Topcuoglu
+
 Mehmet Emre Akbulut
+
 Eren Şenoğlu
+
 Gizem Güliter
